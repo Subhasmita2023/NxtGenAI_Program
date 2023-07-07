@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application is lunched]]>
+    </line>
+    <line>
+      <![CDATA[Register Demo Page is Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to Registration Demo Page]]>
+    </line>
+    <line>
+      <![CDATA[First Name is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[The First Name value is:Subhasmita]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[The Last Name value is:Jena]]>
+    </line>
+    <line>
+      <![CDATA[Female Radio Button is selected]]>
+    </line>
+    <line>
+      <![CDATA[The Street Address is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Street Address Value is:Chansandra]]>
+    </line>
+    <line>
+      <![CDATA[The Apartment Address is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Apartment Address value is:Isha Mistry Green]]>
+    </line>
+    <line>
+      <![CDATA[The City Address is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The City Address Value is:Bangalore]]>
+    </line>
+    <line>
+      <![CDATA[The State Address is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The State Address Value is:Karnatak]]>
+    </line>
+    <line>
+      <![CDATA[The Postal code is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Postal code Value is:560067]]>
+    </line>
+    <line>
+      <![CDATA[The Country Address is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Country Value is:India]]>
+    </line>
+    <line>
+      <![CDATA[Email Id is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Email Id value is:subhasmitadoll@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Date is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The date value is:2/10/2023]]>
+    </line>
+    <line>
+      <![CDATA[Mobile Number is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Mobile Number is:7853860002]]>
+    </line>
+    <line>
+      <![CDATA[The Course1 is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Course1 is:Selenium WebDriver]]>
+    </line>
+    <line>
+      <![CDATA[The Course1 is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Course1 is:TestNG]]>
+    </line>
+    <line>
+      <![CDATA[The Query is displayed]]>
+    </line>
+    <line>
+      <![CDATA[The Query Value is:Which Topics are included in Selenium class.]]>
+    </line>
+    <line>
+      <![CDATA[Submit Button is enabled]]>
+    </line>
+    <line>
+      <![CDATA[Submit Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Both the messages are not same]]>
+    </line>
+    <line>
+      <![CDATA[The acutual message is:Registration Form is Successfully Submitted. The Transaction ID : NXTGEN79397]]>
+    </line>
+    <line>
+      <![CDATA[Application is closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-03T20:08:44 IST" name="Automation Suite" finished-at="2023-07-03T20:09:15 IST" duration-ms="30657">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T20:08:44 IST" name="RegistrationDemoTestCase" finished-at="2023-07-03T20:09:15 IST" duration-ms="30657">
+      <class name="RegisterDemoMavenProject.RegisterDemoTestNG">
+        <test-method is-config="true" signature="lunchApplication()[pri:0, instance:RegisterDemoMavenProject.RegisterDemoTestNG@2a7f1f10]" started-at="2023-07-03T20:08:44 IST" name="lunchApplication" finished-at="2023-07-03T20:09:04 IST" duration-ms="19741" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is lunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method signature="NavigateToResgisterDemo()[pri:1, instance:RegisterDemoMavenProject.RegisterDemoTestNG@2a7f1f10]" started-at="2023-07-03T20:09:04 IST" name="NavigateToResgisterDemo" finished-at="2023-07-03T20:09:07 IST" duration-ms="2901" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Register Demo Page is Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to Registration Demo Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NavigateToResgisterDemo -->
+        <test-method signature="registerUser()[pri:2, instance:RegisterDemoMavenProject.RegisterDemoTestNG@2a7f1f10]" started-at="2023-07-03T20:09:07 IST" name="registerUser" finished-at="2023-07-03T20:09:14 IST" duration-ms="7506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[First Name is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[The First Name value is:Subhasmita]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[The Last Name value is:Jena]]>
+            </line>
+            <line>
+              <![CDATA[Female Radio Button is selected]]>
+            </line>
+            <line>
+              <![CDATA[The Street Address is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Street Address Value is:Chansandra]]>
+            </line>
+            <line>
+              <![CDATA[The Apartment Address is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Apartment Address value is:Isha Mistry Green]]>
+            </line>
+            <line>
+              <![CDATA[The City Address is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The City Address Value is:Bangalore]]>
+            </line>
+            <line>
+              <![CDATA[The State Address is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The State Address Value is:Karnatak]]>
+            </line>
+            <line>
+              <![CDATA[The Postal code is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Postal code Value is:560067]]>
+            </line>
+            <line>
+              <![CDATA[The Country Address is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Country Value is:India]]>
+            </line>
+            <line>
+              <![CDATA[Email Id is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Email Id value is:subhasmitadoll@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Date is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The date value is:2/10/2023]]>
+            </line>
+            <line>
+              <![CDATA[Mobile Number is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Mobile Number is:7853860002]]>
+            </line>
+            <line>
+              <![CDATA[The Course1 is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Course1 is:Selenium WebDriver]]>
+            </line>
+            <line>
+              <![CDATA[The Course1 is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Course1 is:TestNG]]>
+            </line>
+            <line>
+              <![CDATA[The Query is displayed]]>
+            </line>
+            <line>
+              <![CDATA[The Query Value is:Which Topics are included in Selenium class.]]>
+            </line>
+            <line>
+              <![CDATA[Submit Button is enabled]]>
+            </line>
+            <line>
+              <![CDATA[Submit Button is clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="validatingSuccessfulMsg()[pri:3, instance:RegisterDemoMavenProject.RegisterDemoTestNG@2a7f1f10]" started-at="2023-07-03T20:09:14 IST" name="validatingSuccessfulMsg" finished-at="2023-07-03T20:09:14 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Both the messages are not same]]>
+            </line>
+            <line>
+              <![CDATA[The acutual message is:Registration Form is Successfully Submitted. The Transaction ID : NXTGEN79397]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatingSuccessfulMsg -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:RegisterDemoMavenProject.RegisterDemoTestNG@2a7f1f10]" started-at="2023-07-03T20:09:15 IST" name="closeApplication" finished-at="2023-07-03T20:09:15 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- RegisterDemoMavenProject.RegisterDemoTestNG -->
+    </test> <!-- RegistrationDemoTestCase -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
