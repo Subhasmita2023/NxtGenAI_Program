@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-07T15:09:58 IST" name="AutomationSuite" finished-at="2023-07-07T15:09:59 IST" duration-ms="1556">
+    <groups>
+      <group name="Sanity">
+        <method signature="NxtGenAi_Suite.navigateToRegisterDemo()[pri:1, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="navigateToRegisterDemo" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+        <method signature="NxtGenAi_Suite.registerForDomo()[pri:2, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="registerForDomo" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+        <method signature="NxtGenAi_Suite.navigateToPythonForDataScience()[pri:3, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="navigateToPythonForDataScience" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="NxtGenAi_Suite.navigateToRegisterDemo()[pri:1, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="navigateToRegisterDemo" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+        <method signature="NxtGenAi_Suite.registerForDomo()[pri:2, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="registerForDomo" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+        <method signature="NxtGenAi_Suite.navigateToPythonForDataScience()[pri:3, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="navigateToPythonForDataScience" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="NxtGenAi_Suite.navigateToRegisterDemo()[pri:1, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="navigateToRegisterDemo" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+        <method signature="NxtGenAi_Suite.registerForDomo()[pri:2, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="registerForDomo" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+        <method signature="NxtGenAi_Suite.navigateToPythonForDataScience()[pri:3, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" name="navigateToPythonForDataScience" class="com.TestNg_Methods.NxtGenAi_Suite"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-07-07T15:09:58 IST" name="NxtGenAIModules" finished-at="2023-07-07T15:09:59 IST" duration-ms="1556">
+      <class name="com.TestNg_Methods.NxtGenAi_Suite">
+        <test-method is-config="true" signature="lunchApplication()[pri:0, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" started-at="2023-07-07T15:07:50 IST" name="lunchApplication" finished-at="2023-07-07T15:09:58 IST" duration-ms="128164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method signature="navigateToRegisterDemo()[pri:1, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" started-at="2023-07-07T15:09:58 IST" name="navigateToRegisterDemo" finished-at="2023-07-07T15:09:59 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterDemo -->
+        <test-method signature="registerForDomo()[pri:2, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" started-at="2023-07-07T15:09:59 IST" name="registerForDomo" finished-at="2023-07-07T15:09:59 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerForDomo -->
+        <test-method signature="navigateToPythonForDataScience()[pri:3, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" started-at="2023-07-07T15:09:59 IST" name="navigateToPythonForDataScience" finished-at="2023-07-07T15:09:59 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToPythonForDataScience -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.TestNg_Methods.NxtGenAi_Suite@7e057f43]" started-at="2023-07-07T15:09:59 IST" name="closeApplication" finished-at="2023-07-07T15:10:01 IST" duration-ms="1988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.TestNg_Methods.NxtGenAi_Suite -->
+    </test> <!-- NxtGenAIModules -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
